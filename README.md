@@ -44,7 +44,7 @@
 
 <br>
 
-## :dart: About ##
+## :eye_speech_bubble: About ##
 
 Describe your project
 
@@ -63,6 +63,14 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## :world_map: Roadmap ##
+
+
+:compass: reset button\
+:compass: move history navigation\
+:compass: win history\
+:compass: more
 
 ## :white_check_mark: Requirements ##
 
